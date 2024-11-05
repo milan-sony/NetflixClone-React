@@ -1,0 +1,11 @@
+.new-cards{
+    width: 18rem;
+    margin-bottom: 40px;
+}
+.head-text{
+    font-size: 26px;
+    font-weight: 900;
+    letter-spacing: 2px;
+    color: white;
+    text-transform: uppercase;
+}
