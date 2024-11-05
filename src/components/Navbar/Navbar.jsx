@@ -5,7 +5,7 @@ import '../Navbar/Navbar.css'
 function Navbar() {
     return (
         <>
-            <nav class="navbar bg-body-tertiary">
+            <nav class="navbar nav-bar">
                 <div class="container-fluid">
                     <a class="navbar-brand"><img className='logo' src={netflixLogo} alt="Netflix logo" /></a>
                     <div class="d-flex" role="search">
